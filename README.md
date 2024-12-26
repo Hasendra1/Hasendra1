@@ -14,7 +14,7 @@ Hi there! 👋 I'm Ashan. Welcome to my GitHub profile! I'm passionate about cod
 Check out my repositories for more of my work!
 
 ## Connect With Me
-- [GitHub]
+- [GitHub](https://github.com/Hasendra1)
 - [LinkedIn]
 - [Email](ashanweerasinghe111@gmail.com)
 
