@@ -15,7 +15,7 @@ Check out my repositories for more of my work!
 
 ## Connect With Me
 - [GitHub](https://github.com/Hasendra1)
-- [LinkedIn]
+- [LinkedIn](https://www.linkedin.com/in/ashan-weerasinghe-031ab8261?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BG0t3Qw%2FERsKEyISPqHeMqw%3D%3D)
 - [Email](ashanweerasinghe111@gmail.com)
 
 
